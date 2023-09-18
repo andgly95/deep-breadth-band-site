@@ -1,7 +1,4 @@
 <script>
-  import Counter from "./Counter.svelte";
-  import welcome from "$lib/images/svelte-welcome.webp";
-  import welcome_fallback from "$lib/images/svelte-welcome.png";
 </script>
 
 <svelte:head>
@@ -10,7 +7,12 @@
 </svelte:head>
 
 <section>
-  <h1>DEEP BREADTH</h1>
+  <h1>Welcome to the Official Website of Deep Breadth</h1>
+  <h3>
+    Immerse yourself in a soulful journey of instrumental bliss. Welcome to the
+    online sanctuary of Deep Breadth, your one-stop destination for modern
+    jazz-inspired fusion that's as evocative as it is smooth.
+  </h3>
 </section>
 
 <style>
