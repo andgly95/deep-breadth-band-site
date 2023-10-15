@@ -7,6 +7,7 @@
 </svelte:head>
 
 <section>
+  <img src="/images/logo.jpg" alt="Deep Breadth" />
   <h1>Welcome to the Official Website of Deep Breadth</h1>
   <h3>
     Immerse yourself in a soulful journey of instrumental bliss. Welcome to the
